@@ -1,39 +1,38 @@
 # Autó Bérlő alkalmazás
 
 ## Készítők:
-
+**Horváth Dávid Alexander**
+**Gaál András Krisztián**
 
 ## Mi a szoftver célja?
 
-
+Le klónozni egy professzionális autókereskedés Weboldalát és Mobil applikácíóját.
 
 ## Milyen funkciókat kell megvalósítani?
 
-What things you need to install the software and how to install them
+- **Felhasználó rész**
+- Autók listájának böngészése
+- Járművek bérlése/ vásárlása kapcsolatfelvétellel
 
-```
-Give examples
-```
+- **Admin felület**
+- Jármű paletta szerkesztése (Hozzádadás/Törlés)
+- Járművek adatainak szerkesztése (Km állás, kor, stb.)
+- Kategóriák szerkesztése 
+
 
 ## Szoftverkomponensek
 
-A step by step series of examples that tell you how to get a development env running
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
 
 ## A szoftver futtatásához szükséges műszaki feltételek
 
+- **Mobil Alkalmazás**
+- Modern Android / IOS telefon
+- Internet elérés
+  
+- **Weboldal**
+- Internet elérés
+- Modern böngésző
+- 
 
 

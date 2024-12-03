@@ -13,7 +13,7 @@ Le klónozni egy professzionális autókereskedés Weboldalát és Mobil applik�
 - **Felhasználó rész**
 - Autók listájának böngészése
 - Járművek bérlése/ vásárlása kapcsolatfelvétellel
-
+<br>
 - **Admin felület**
 - Jármű paletta szerkesztése (Hozzádadás/Törlés)
 - Járművek adatainak szerkesztése (Km állás, kor, stb.)
@@ -29,10 +29,10 @@ Le klónozni egy professzionális autókereskedés Weboldalát és Mobil applik�
 - **Mobil Alkalmazás**
 - Modern Android / IOS telefon
 - Internet elérés
-  
+  <br>
 - **Weboldal**
 - Internet elérés
 - Modern böngésző
-- 
+
 
 

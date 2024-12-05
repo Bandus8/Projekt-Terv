@@ -21,8 +21,19 @@ Le klónozni egy professzionális autókereskedés Weboldalát és Mobil applik�
 
 
 ## Szoftverkomponensek
+### RestApi
+- ASP NET
+- MySQL
 
+### Weboldal
+- HTML
+- CSS
+- JAVASCRIPT
+- Tailwind
+- Svelte
 
+### Mobil applikáció
+- Flutter
 
 ## A szoftver futtatásához szükséges műszaki feltételek
 
@@ -33,6 +44,3 @@ Le klónozni egy professzionális autókereskedés Weboldalát és Mobil applik�
 - **Weboldal**
 - Internet elérés
 - Modern böngésző
-
-
-

@@ -1,4 +1,4 @@
-# Használt eszközök
+# Használt szoftverkomponensek
 Ez a dokumentum tartalmazza azokat az eszközöket, szoftvercsomagokat és könyvtárakat amelyeket használtunk. 
 
 ## Rest Api

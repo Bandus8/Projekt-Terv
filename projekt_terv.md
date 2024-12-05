@@ -22,10 +22,16 @@ Le klónozni egy professzionális autókereskedés Weboldalát és Mobil applik�
 
 ## Szoftverkomponensek
 ### RestApi
+A RestApi modul felelős az adatbázis kezeléséért, új adatok hozzáadásáért, törléséért, frissítéséért, illetve az adatok továbbításáért  az alkalmazás többi része, vagy más alkalmazások felé.
+
+**Használt eszközök:**
 - ASP NET
 - MySQL
 
 ### Weboldal
+Ez az asztali számítógépen és mobil egyaránt elérhető reszponzív weboldal lesz az applikáció elsőszámú felhasználói felülete. Emellett az adminisztrációs funkciók is weboldalon keresztül lesznek elérhetőek az üzemeltetők számára.
+
+**Használt eszközök:**
 - HTML
 - CSS
 - JAVASCRIPT
@@ -33,6 +39,9 @@ Le klónozni egy professzionális autókereskedés Weboldalát és Mobil applik�
 - Svelte
 
 ### Mobil applikáció
+Weboldal mellet mobilon applikáción keresztül is elérhető lesz a szolgáltatás. Ennek célja egy kényelmesebb felület biztosítása a mobilos felhasználók számára, illetve más webes felületen elérhetetlen funkciók *(például értesítések)* alkalmazása.
+
+**Használt eszközök:**
 - Flutter
 
 ## A szoftver futtatásához szükséges műszaki feltételek

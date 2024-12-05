@@ -2,6 +2,7 @@
 
 ## Készítők:
 **Horváth Dávid Alexander**
+
 **Gaál András Krisztián**
 
 ## Mi a szoftver célja?
@@ -14,6 +15,7 @@ Le klónozni egy professzionális autókereskedés Weboldalát és Mobil applik�
 - Autók listájának böngészése
 - Járművek bérlése/ vásárlása kapcsolatfelvétellel
 <br>
+
 - **Admin felület**
 - Jármű paletta szerkesztése (Hozzádadás/Törlés)
 - Járművek adatainak szerkesztése (Km állás, kor, stb.)
@@ -28,7 +30,7 @@ A RestApi modul felelős az adatbázis kezeléséért, új adatok hozzáadásá�
 - ASP NET
 - MySQL
 
-### Weboldal
+### Weboldal
 Ez az asztali számítógépen és mobil egyaránt elérhető reszponzív weboldal lesz az applikáció elsőszámú felhasználói felülete. Emellett az adminisztrációs funkciók is weboldalon keresztül lesznek elérhetőek az üzemeltetők számára.
 
 **Használt eszközök:**
